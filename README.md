@@ -57,7 +57,7 @@ _Note_ You can find `<postgres-container-ID>` with `docker ps`
 
 #### For a Heroku deployment
 
-From the Heroku app dashboard (dashboard.heroku.com/apps/<my-app-name>), navigate to the Settings tab -> Reveal config vars -> DATABASE_URL. Use the following command:
+From the Heroku app dashboard (`dashboard.heroku.com/apps/<my-app-name>`), navigate to the Settings tab -> Reveal config vars -> DATABASE_URL. Use the following command:
 
 ```
 psql <DATABASE_URL> < chinook.sql
