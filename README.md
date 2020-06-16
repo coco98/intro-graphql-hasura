@@ -23,3 +23,7 @@ OR if you already have psql installed locally
 psql  < chinook.sql
 ```
 
+### Remote schema endpoint
+
+https://op-workshop-remote-schema-6923.herokuapp.com/v1/graphql
+
