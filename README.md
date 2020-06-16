@@ -20,7 +20,7 @@ psql -U postgres /bin/bash
 OR if you already have psql installed locally
 
 ```
-psql  < chinook.sql
+psql postgres://postgres:mypassword@localhost:6432/postgres < chinook.sql
 ```
 
 ### Remote schema endpoint
