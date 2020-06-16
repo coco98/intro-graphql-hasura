@@ -81,4 +81,13 @@ An additional Hasura GraphQL Engine instance has already been set up as a Heroku
 
 https://op-workshop-remote-schema-6923.herokuapp.com/v1/graphql
 
-_admin secret: super-secret-password_
+_x-hasura-admin-secret: super-secret-password_
+
+It contains the following tables:
+
+- playlist
+- playlist_aggregate
+- playlist_by_pk
+- playlist_track
+- playlist_track_aggregate
+- playlist_track_by_pk
