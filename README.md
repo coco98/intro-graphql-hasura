@@ -1,4 +1,4 @@
-# optum-workshop
+# Intro GraphQL & Hasura
 
 ### Dev environment
 
