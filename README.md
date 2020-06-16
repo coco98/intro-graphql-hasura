@@ -7,7 +7,7 @@
 OR
 
 2. [![Deploy to
-Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/tirumaraiselvan/3factor-workshop-heroku)
+Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/hasura/graphql-engine-heroku)
 
 ### Loading initial data
 
